@@ -10,7 +10,7 @@ This website exhibits a collaborative project, called UniTech, which aims to cul
 
 Describe Home Page 
 
-Describe Contact Page
+The about us page has informaation on the people who made the website, and a brief overview of who they are as people. 
 
 The resource page has organizations and educational platforms for those who are starting in programming, those who want to broaden their skills and knowledge, or for those who are curious.
 
