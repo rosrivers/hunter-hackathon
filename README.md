@@ -6,8 +6,17 @@
  
  :star: Star us on GitHub — it would mean a lot!
  
- This is a website that aims to promote accessibility to resources for coding for the under represented groups in the CS industry ! 
+This website exhibits a collaborative project, called UniTech, which aims to cultivate confidence in under represented groups interested in the tech industry by emphazing the importance of communication, exploration, and practice. 
+
+Describe Home Page 
+
+Describe Contact Page
+
+Describe Resource Page
+
+Describe Daily Coding Page 
+
+Last but not least, our Community page is a growing collection of interviews with minorities in their tech career. In their interviews, they shared personal stories, advice, tips, and messages that are meant to uplight, motivate, and encourage people in under represented groups (especially women) to pursue the diverse tech field. 
  
- We also showcased some women who made it in the CS industry and how its not all just men !
  
  
