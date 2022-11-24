@@ -12,7 +12,7 @@ Describe Home Page
 
 Describe Contact Page
 
-Describe Resource Page
+The resource page has organizations and educational platforms for those who are starting in programming, those who want to broaden their skills and knowledge, or for those who are curious.
 
 Describe Daily Coding Page 
 
