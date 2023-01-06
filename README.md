@@ -8,8 +8,6 @@
  
 This website exhibits a collaborative project, called UniTech, which aims to cultivate confidence in under represented groups interested in the tech industry by emphazing the importance of communication, exploration, and practice. 
 
-Describe Home Page 
-
 The about us page has informaation on the people who made the website, and a brief overview of who they are as people. 
 
 The resource page has organizations and educational platforms for those who are starting in programming, those who want to broaden their skills and knowledge, or for those who are curious.
