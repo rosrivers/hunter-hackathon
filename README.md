@@ -6,7 +6,7 @@
  
  :star: Star us on GitHub — it would mean a lot!
  
-This website exhibits a collaborative project, called UniTech, which aims to cultivate confidence in under represented groups interested in the tech industry by emphazing the importance of communication, exploration, and practice. 
+This website exhibits a collaborative project, called UniTech, which aims to cultivate confidence in underrepresented groups interested in the tech industry by emphasizing the importance of communication, exploration, and practice. 
 
 The About Us page has informaation on the people who made the website, and a brief overview of who they are as people. 
 
