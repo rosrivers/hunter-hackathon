@@ -8,11 +8,11 @@
  
 This website exhibits a collaborative project, called UniTech, which aims to cultivate confidence in under represented groups interested in the tech industry by emphazing the importance of communication, exploration, and practice. 
 
-The about us page has informaation on the people who made the website, and a brief overview of who they are as people. 
+The About Us page has informaation on the people who made the website, and a brief overview of who they are as people. 
 
-The resource page has organizations and educational platforms for those who are starting in programming, those who want to broaden their skills and knowledge, or for those who are curious.
+The Resource page has organizations and educational platforms for those who are starting in programming, those who want to broaden their skills and knowledge, or for those who are curious.
 
-The Planner Page is a calendar where users may view their daily tasks and practice their coding skills by completing a LeetCode challenge that is linked to their planner. This helps students who are interested/involved in the Computer Science field to be organized and keep their skills sharp.
+The Planner page is a calendar where users may view their daily tasks and practice their coding skills by completing a LeetCode challenge that is linked to their planner. This helps students who are interested/involved in the Computer Science field to be organized and keep their skills sharp.
 
 Last but not least, our Community page is a growing collection of interviews with minorities in their tech career. In their interviews, they shared personal stories, advice, tips, and messages that are meant to uplift, motivate, and encourage people in underepresented groups (especially women) to pursue the diverse tech field. 
  
