@@ -14,7 +14,7 @@ The Resource page has organizations and educational platforms for those who are 
 
 The Planner page is a calendar where users may view their daily tasks and practice their coding skills by completing a LeetCode challenge that is linked to their planner. This helps students who are interested/involved in the Computer Science field to be organized and keep their skills sharp.
 
-Last but not least, our Community page is a growing collection of interviews with minorities in their tech career. In their interviews, they shared personal stories, advice, tips, and messages that are meant to uplift, motivate, and encourage people in underepresented groups (especially women) to pursue the diverse tech field. 
+Last but not least, our Community page is a growing collection of interviews with minorities in their tech career. In their interviews, they shared personal stories, advice, tips, and messages that are meant to uplift, motivate, and encourage people in underrepresented groups (especially women) to pursue the diverse tech field. 
  
  
  
